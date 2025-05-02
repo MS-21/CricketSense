@@ -4,7 +4,7 @@ IPL Match Outcome Predictor
 To build a robust machine learning model that can accurately predict:
 - Match winner
 - Team scores
-- Key player performance (optional)
+- Key player performance
 - Match outcome probabilities
 ## Tech Stack
 
